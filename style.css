@@ -33,7 +33,7 @@ a {
   transition: opacity 300ms ease;
 }
 
-a:hover {
+i:hover {
   opacity: 0.7;
 }
 
@@ -118,7 +118,7 @@ nav {
 }
 
 .nav__link--anchor-primary {
-  background-color: #6030b1;
+  background-color: #4984b8;
   padding: 8px 20px;
   border-radius: 50px;
   color: white;
@@ -126,18 +126,18 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-  background-color: #5d3eff;
+  background-color: #4984b8;
 }
 
 .personal__logo {
   font-size: 24px;
-  color: #6030b1;
+  color: #4984b8;
   margin: 0 12px;
   font-weight: bold;
 }
 
 .text--purple {
-  color: #6030b1;
+  color: #4984b8;
 }
 
 /* About Me Section */
@@ -269,6 +269,9 @@ nav {
   100% {
     transform: rotate(0);
 }
+
+}
+
 
 /* Tech Stack */
 
